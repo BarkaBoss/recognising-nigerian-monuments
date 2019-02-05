@@ -1,4 +1,4 @@
-##Data set of Nigerian Monuments
+## Data set of Nigerian Monuments
 
 This is a small sample dataset of three monuments for trying out simple machine learning CNN.
 * National mosque
