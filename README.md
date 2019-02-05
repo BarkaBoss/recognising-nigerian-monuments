@@ -9,4 +9,4 @@ This is a small sample dataset of three monuments for trying out simple machine 
 ![Olumo Rock](images/olumo.jpg)
 ![Zuma Rock](images/zuma.jpg)
 
-These images were scrapped of the internet using Bing Image Search API."# recognising-nigerian-monuments" 
+These images were scrapped of the internet using Bing Image Search API.
